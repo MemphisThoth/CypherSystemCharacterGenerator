@@ -1,0 +1,15 @@
+/home/jaredperkins/Documents/Projects/CypherSystemCharacterGenerator/obj/Debug/net10.0/CypherSystemCharacterGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/home/jaredperkins/Documents/Projects/CypherSystemCharacterGenerator/obj/Debug/net10.0/CypherSystemCharacterGenerator.AssemblyInfoInputs.cache
+/home/jaredperkins/Documents/Projects/CypherSystemCharacterGenerator/obj/Debug/net10.0/CypherSystemCharacterGenerator.AssemblyInfo.cs
+/home/jaredperkins/Documents/Projects/CypherSystemCharacterGenerator/obj/Debug/net10.0/CypherSystemCharacterGenerator.csproj.CoreCompileInputs.cache
+/home/jaredperkins/Documents/Projects/CypherSystemCharacterGenerator/obj/Debug/net10.0/CypherSystemCharacterGenerator.sourcelink.json
+/home/jaredperkins/Documents/Projects/CypherSystemCharacterGenerator/bin/Debug/net10.0/CypherSystemCharacterGenerator
+/home/jaredperkins/Documents/Projects/CypherSystemCharacterGenerator/bin/Debug/net10.0/CypherSystemCharacterGenerator.deps.json
+/home/jaredperkins/Documents/Projects/CypherSystemCharacterGenerator/bin/Debug/net10.0/CypherSystemCharacterGenerator.runtimeconfig.json
+/home/jaredperkins/Documents/Projects/CypherSystemCharacterGenerator/bin/Debug/net10.0/CypherSystemCharacterGenerator.dll
+/home/jaredperkins/Documents/Projects/CypherSystemCharacterGenerator/bin/Debug/net10.0/CypherSystemCharacterGenerator.pdb
+/home/jaredperkins/Documents/Projects/CypherSystemCharacterGenerator/obj/Debug/net10.0/CypherSystemCharacterGenerator.dll
+/home/jaredperkins/Documents/Projects/CypherSystemCharacterGenerator/obj/Debug/net10.0/refint/CypherSystemCharacterGenerator.dll
+/home/jaredperkins/Documents/Projects/CypherSystemCharacterGenerator/obj/Debug/net10.0/CypherSystemCharacterGenerator.pdb
+/home/jaredperkins/Documents/Projects/CypherSystemCharacterGenerator/obj/Debug/net10.0/CypherSystemCharacterGenerator.genruntimeconfig.cache
+/home/jaredperkins/Documents/Projects/CypherSystemCharacterGenerator/obj/Debug/net10.0/ref/CypherSystemCharacterGenerator.dll

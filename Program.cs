@@ -1,4 +1,4 @@
-﻿Using System;
+﻿using System;
 
 namespace CypherSystemCharacterGenerator
 {
@@ -6,12 +6,12 @@ namespace CypherSystemCharacterGenerator
     {
         static void Main()
         {
-            Console.CLear();
+            Console.Clear();
             Console.WriteLine("Cypher System");
             Console.WriteLine("Character Generator");
             Console.WriteLine("by Jared Perkins\n");
 
-            
+
         }
     }
 }
