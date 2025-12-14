@@ -30,20 +30,34 @@ namespace CypherSystemCharacterGenerator
             string typeChoice = Console.ReadLine();
 
             // Convert the type choice to a more descriptive name.
+            // Get the initial stats for each type.
             string characterType = "";
+            int might = 0, speed = 0, intellect = 0;
             switch (typeChoice)
             {
                 case "1":
                     characterType = "Warrior";
+                    might = 10;
+                    speed = 10;
+                    intellect = 8;
                     break;
                 case "2":
                     characterType = "Adept";
+                    might = 7;
+                    speed = 9;
+                    intellect = 12;
                     break;
                 case "3":
                     characterType = "Explorer";
+                    might = 10;
+                    speed = 9;
+                    intellect = 9;
                     break;
                 case "4":
                     characterType = "Speaker";
+                    might = 8;
+                    speed = 9;
+                    intellect = 11;
                     break;
                 default:
                     Console.WriteLine("Invalid input");
@@ -52,10 +66,14 @@ namespace CypherSystemCharacterGenerator
             }
 
 
+
             // Write the stored values for texting.
             Console.WriteLine(playerName);
             Console.WriteLine(characterName);
             Console.WriteLine(characterType);
-        }
+            Console.WriteLine(might);
+            Console.WriteLine(speed);
+            Console.WriteLine(intellect);
+       }
     }
 }
