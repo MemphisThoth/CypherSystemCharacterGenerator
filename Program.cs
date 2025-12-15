@@ -65,15 +65,22 @@ namespace CypherSystemCharacterGenerator
                     break;
             }
 
+            // Have the user assign six points to stats
+            Console.WriteLine("Distribute six additional points to stats:");
+            Console.WriteLine("Current Stats:");
+            Console.WriteLine("Might: {0} Speed: {1} Intellect: {2}", might, speed, intellect);
+            Console.Write("Assign points to Might: ");
+            int mightAssigned = int.Parse(Console.ReadLine());
+            might = might + mightAssigned;
+            Console.Write("Assign points to Speed: ");
+            int speedAssigned = int.Parse(Console.ReadLine());
+            speed = speed + speedAssigned;
+            Console.Write("Assign points to Intellect: ");
+            int intellectAssigned = int.Parse(Console.ReadLine());
+            intellect = intellect + intellectAssigned;
 
 
-            // Write the stored values for texting.
-            Console.WriteLine(playerName);
-            Console.WriteLine(characterName);
-            Console.WriteLine(characterType);
-            Console.WriteLine(might);
-            Console.WriteLine(speed);
-            Console.WriteLine(intellect);
+            
        }
     }
 }
