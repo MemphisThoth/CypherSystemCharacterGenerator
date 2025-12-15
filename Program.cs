@@ -80,7 +80,18 @@ namespace CypherSystemCharacterGenerator
             intellect = intellect + intellectAssigned;
 
 
-            
+            // Write data to a text file.
+            string path = "character_sheet.txt";
+            using (StreamWriter writer = new StreamWriter(path))
+            {
+                writer.WriteLine("== Cypher System Character Sheet ==");
+                writer.WriteLine($"Player Name: {playerName}");
+                writer.WriteLine($"Character Name: {characterName}");
+                writer.WriteLine($"Character Type: {characterType}");
+                writer.WriteLine($"Might: {might}");
+                writer.WriteLine($"Speed: {speed}");
+                writer.WriteLine($"Intellect: {intellect}");
+            }
        }
     }
 }

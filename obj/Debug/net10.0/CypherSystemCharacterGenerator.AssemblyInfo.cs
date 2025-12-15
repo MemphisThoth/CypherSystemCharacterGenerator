@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CypherSystemCharacterGenerator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b778cd1bbcc1e3649072cd949ce703e8b48f48d9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2b491040695adda96a8b994a89a5c13bd0f94e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("CypherSystemCharacterGenerator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CypherSystemCharacterGenerator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
